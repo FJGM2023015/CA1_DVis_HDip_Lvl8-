@@ -1,1 +1,1 @@
-# Board Game Analysis
+# Analysis of Board Games
